@@ -25,8 +25,8 @@ $ python -m genomefeature -a Zmays_493_RefGen_V4.gene_exons_xm_primarytranscript
 
 -a gff file
 -g fasta file
--d 3'-UTR length
--u 5'-UTR length
+-d 5'-UTR length
+-u 3'-UTR length
 -e extension length from UTR regions in both upstream and downstream
 -o output file of features 
 ```

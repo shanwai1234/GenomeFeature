@@ -1,0 +1,6 @@
+README.md
+setup.py
+GenomeFeature.egg-info/PKG-INFO
+GenomeFeature.egg-info/SOURCES.txt
+GenomeFeature.egg-info/dependency_links.txt
+GenomeFeature.egg-info/top_level.txt

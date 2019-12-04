@@ -142,7 +142,7 @@ def downstream(fa, ann, kb1, kb2):
     out2.close()
 
 
-def exon(fa, ann):
+def cds(fa, ann):
     f = Fasta(fa)
     fh = open(ann, 'r')
     out1 = open('exon.fa', 'w')

@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name='GenomeFeature',
-                 py_modules=['GenomeFeature'],
+                 py_modules=['genomefeature'],
                  version='1.0.2',
                  license='BSD-3',
                  author='Zhikai Liang',
